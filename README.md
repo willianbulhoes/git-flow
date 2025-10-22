@@ -8,4 +8,4 @@ Corrigindo via Hotfix
 
 Testes com Git Stash
 
-Git Cherry Pick
+Git Cherry Pick V1.0
