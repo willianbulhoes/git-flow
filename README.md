@@ -7,3 +7,5 @@ A versão deste repositório é v1.0
 Corrigindo via Hotfix
 
 Testes com Git Stash
+
+Git Cherry Pick
